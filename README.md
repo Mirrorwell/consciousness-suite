@@ -1,5 +1,11 @@
 # Consciousness-Electromagnetic Interface Programming Suite
 
+
+https://github.com/user-attachments/assets/cd131177-e12f-4907-ae5f-84590084f47b
+
+
+
+
 > *"If you only knew the magnificence of the 3, 6 and 9, then you would have a key to the universe."* - Nikola Tesla
 
 [![Research Stage](https://img.shields.io/badge/stage-experimental-orange.svg)](https://github.com/mirrorwell/consciousness-engineering-suite)
